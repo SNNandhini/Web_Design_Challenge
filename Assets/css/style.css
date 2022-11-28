@@ -1,0 +1,118 @@
+body {
+    background: #f1f1f1f5;
+    line-height: 2; 
+  }
+
+  /* Giving our navbar some padding and a background color */
+.navbar {
+    padding: inherit;
+    background: white;
+    max-height: 60px;
+    color: black;
+    position: sticky;
+    top:0;
+  }
+
+  .navbar-light .navbar-brand {
+    color: white;
+  }
+  
+  /* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+  .navbar-brand {
+    display: inline-block;
+    cursor: pointer;
+    background: #0BADA6;
+    font-weight: bold; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration: none;
+
+  }
+
+  .nav-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+  }  
+
+  .navbar .nav-item.active {
+    background-color: #C0C0C0;
+  }
+
+
+  /* .navbar .navbar-nav .nav-link.active{
+    background-color: #C0C0C0;
+  } */
+
+  .box {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:black;
+    background-color: white; 
+    position: relative;
+  
+  }
+
+  .title {
+    color: #0BADA6;
+    font-weight: bold; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  /*  width: 50%; */
+  }
+
+  .img-border {
+    border: 3px solid #0BADA6;
+  }
+  
+  .nav-item.dropdown.show {
+    background-color: lightgrey;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border-color: whitesmoke;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 4px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: lightgrey;
+  }
+
+  @media (max-width: 767px){
+    .bg-light {
+    background-color: #0BADA6!important;
+    }
+
+    .centered img {
+      width: 28%;   
+    }  
+
+    .centered {
+      text-align: center;
+    }
+
+    /*.topspace {
+      padding-top: 300px;
+    }*/
+  
+  }
+
+  /*.navbar-toggler.collapsed and @media (max-width: 767px){
+    .topspace {
+      padding-top: 300px;
+    }
+  }*/
+  
+
