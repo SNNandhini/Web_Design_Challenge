@@ -36,7 +36,7 @@ The other visualization pages are similar to the above page.
 -   A Bootstrap grid is used for the visualizations. 
 
 The picture of Comparison page on large/ medium sized screens and small/ very small screens are as follows: 
-![image](https://user-images.githubusercontent.com/111614210/204593383-a0df7c5d-874b-44c5-a774-fb7e41d53830.png)
+![image](https://user-images.githubusercontent.com/111614210/204593862-9d45d3d8-2bb7-4eab-8967-75b63c277ce9.png)
 
 ## Data Page
 -   This page displays a responsive table containing the data used in the visualizations. 
@@ -50,6 +50,9 @@ The picture of Comparison page on large/ medium sized screens and small/ very sm
 -   A dropdown menu is present on the right of the navigation bar, named "Plots," to provide links to each individual visualization page.
 -   There are two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 -   The navigation bar is responsive (using media queries).
+
+
+## Files Uploaded
 
 
 
