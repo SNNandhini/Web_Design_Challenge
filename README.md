@@ -18,11 +18,18 @@ The 7 pages built for the challenge are explained below.
 ## Landing Page
 -   This page contains an explanation of the project, links to each visualization and a sidebar containing preview images of each plot. 
 -   Clicking an image takes the user to the selected visualization. 
+ 
+The picture of the landing page on large/ medium sized screens and small/ very small screens are as follows: 
 
+![image](https://user-images.githubusercontent.com/111614210/204406313-89d90017-0e2a-4fa4-88f0-4d7d77844fca.png)
 
 ## Visualization Pages
 -   Each of the four visualization pages contain a title, a plot or visualization for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed) and a paragraph describing the plot and its significance. 
 
+The picture of visualization page for Maximum Temperature on large/ medium sized screens and small/ very small screens are as follows: 
+![image](https://user-images.githubusercontent.com/111614210/204408359-a7242f65-b99d-4805-afb3-aa08ce02538b.png)
+
+The other visualization pages are similar to the above page.
 
 ## Comparisons Page
 -   This page contains all of the visualizations on the same page so they can easily be compared with each other. 
