@@ -35,6 +35,8 @@ The other visualization pages are similar to the above page.
 -   This page contains all of the visualizations on the same page so they can easily be compared with each other. 
 -   A Bootstrap grid is used for the visualizations. 
 
+The picture of Comparison page on large/ medium sized screens and small/ very small screens are as follows: 
+![image](https://user-images.githubusercontent.com/111614210/204593383-a0df7c5d-874b-44c5-a774-fb7e41d53830.png)
 
 ## Data Page
 -   This page displays a responsive table containing the data used in the visualizations. 
