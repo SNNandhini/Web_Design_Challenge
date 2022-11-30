@@ -43,6 +43,8 @@ The picture of Comparison page on large/ medium sized screens and small/ very sm
 -   The table is a Bootstrap component. 
 -   The data comes from the cities.csv file generated in the Python APIs Challenge. For this, the pandas' to_html method is used to generate the html table. 
 
+The picture of Data page on large/ medium sized screens and small/ very small screens are as follows:
+![image](https://user-images.githubusercontent.com/111614210/204709680-a3ac0e23-d258-42bd-b8b5-dbc7c171a18e.png)
 
 ## Navigation Bar
 -   The website has a navigation bar at the top of every page. 
@@ -51,6 +53,8 @@ The picture of Comparison page on large/ medium sized screens and small/ very sm
 -   There are two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 -   The navigation bar is responsive (using media queries).
 
+The picture of Navigation Bar on large/ medium sized screens and small/ very small screens are as follows: 
+![image](https://user-images.githubusercontent.com/111614210/204709156-d322d55b-cc8b-44bf-8885-f0010097bb6b.png)
 
 ## Files Uploaded
 
