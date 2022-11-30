@@ -73,6 +73,12 @@ body {
     background-color: lightgrey;
   }
 
+  /* text in the data table aligned as required */
+  th, td {
+    text-align: left;
+    padding: 4px;
+  }
+
   /* css for small sized screens */
   @media (max-width: 767px){
     /* background colour of the navbar */
