@@ -63,18 +63,18 @@ body {
     margin-right: auto;
   }
 
-  /* used in the visualization pages in the images menu to highlight the image selected */ 
-  .img-border {
+/* used in the visualization pages in the images menu to highlight the image selected */ 
+.img-border {
     border: 3px solid #0BADA6;
   }
   
-  /* navbar dropdown menu background colour */
-  .nav-item.dropdown.show {
+/* navbar dropdown menu background colour */
+.nav-item.dropdown.show {
     background-color: lightgrey;
   }
 
-  /* text in the data table aligned as required */
-  th, td {
+/* text in the data table aligned as required */
+th, td {
     text-align: left;
     padding: 4px;
   }
@@ -98,7 +98,7 @@ body {
 
     /* backround colour of the navbar items when collapsed */
     .navbar-collapse{
-      background-color: lightgrey;
+      background-color: whitesmoke;
     }
 
   }
