@@ -53,6 +53,15 @@ The picture of Comparison page on large/ medium sized screens and small/ very sm
 
 
 ## Files Uploaded
+-   **Landing Page** - index.html
+-   **Comparison Page** - comparison.html
+-   **Data Page** - data.html
+-   **Visualization Pages** - Visualizations/
+-   **Pandas csv to html** - Data_tohtml.ipynb
+-   **Pandas output file** - source_data.html
+-   **CSS Stylesheet** - Assets/css/style.css
+-   **Input Images** - Assets/images
+-   **Input csv file** - Resources/cities.csv
 
 
 
