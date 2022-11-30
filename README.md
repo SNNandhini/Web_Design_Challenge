@@ -66,7 +66,3 @@ The picture of Navigation Bar on large/ medium sized screens and small/ very sma
 -   **CSS Stylesheet** - Assets/css/style.css
 -   **Input Images** - Assets/images
 -   **Input csv file** - Resources/cities.csv
-
-
-
-
